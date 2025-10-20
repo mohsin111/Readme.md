@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Mohsin   ### 💻 Python Backend Developer | API Engineer | Tech Explorer    🚀 Passionate about building **scalable backend systems**, **high-performance APIs**, and **clean architectures** using Python.   🌍 Currently working in **GIFT City, Gandhinagar**, building modern backend solutions with **Django**, **FastAPI**, and **PostgreSQL**.   
+# 👋 Hi, I'm Mohsin   ### 💻 Python Backend Developer | API Engineer | Tech Explorer    
+
+🚀 Passionate about building **scalable backend systems**, **high-performance APIs**, and **clean architectures** using Python.   
+
+🌍 Currently working in **GIFT City, Gandhinagar**, building modern backend solutions with **Django**, **FastAPI**, and **PostgreSQL**.   
 
 💡 I love solving performance challenges, automating deployments, and designing APIs that just work.    ---  ### 
 
