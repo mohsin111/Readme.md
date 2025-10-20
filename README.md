@@ -13,6 +13,6 @@
 -
 - ☁️ **Deployment Automation** – CI/CD pipelines using GitHub Actions, Docker & PostgreSQL optimization    ---  ###
 -
-- 🌐 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=About.me&logoColor=white)](https://your-portfolio-link)  ---  ###
+- 🌐 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mohsin-mithawala-6a309417a/)) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohsinmithawala07@gmail.com) 
 -
 -   📈 Activity ![Profile Views](https://komarev.com/ghpvc/?username=mohsin111&label=Profile%20Views&color=0e75b6&style=flat) ![Mohsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohsin111&theme=tokyo-night)  ---  ⭐ **"Code. Learn. Automate. Repeat."**
